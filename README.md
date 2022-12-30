@@ -1,2 +1,2 @@
-# 45-ejrcicios-de-psint
+# 45-ejersicios-de-psint
 practicando se aprende
